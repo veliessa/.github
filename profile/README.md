@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Welcome to Veliessa
 
-![Veliessa Banner](../veliessa.png) <!-- Replace with real banner when ready -->
+![VELIESSA banner](veliessa-banner.svg)
 
 **Veliessa** is a visionary digital brand focused on building secure, design-first, and next-generation infrastructure for modern applications. From authentication to full-stack architecture, we craft systems that prioritize security, performance, and elegance.
 
